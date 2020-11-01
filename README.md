@@ -4,6 +4,7 @@ Single Page Application, написанное во время прохожден
 - React 
 - ReactRouter 
 - Redux
+- ReactRedux
 - Redux-Thunk 
 - Axios
 - Redux-Form. 
