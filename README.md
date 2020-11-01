@@ -2,7 +2,7 @@
 
 Single Page Application, написанное во время прохождения курса от IT-KAMASUTRA "React JS - путь самурая". Использованные технологии: 
 - React 
-- ReactRouter 
+- React-Router 
 - Redux
 - React-Redux
 - Redux-Thunk 
